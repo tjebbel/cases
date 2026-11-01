@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
  
-# 1. Genereer de tijdreeks voor 1 week (168 uur)
+# 1. Genereer tijdreeks voor 1 week (168 uur)
 timestamps = pd.date_range(start="2026-06-01 00:00", periods=168, freq="h")
  
 # 2. Maak Opwek-dataset (Solar Generation in MWh)
