@@ -1,2 +1,0 @@
-# cases
-Solar Case Projects
